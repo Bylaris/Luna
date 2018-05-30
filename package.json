@@ -1,0 +1,26 @@
+{
+  "name": "luna",
+  "version": "2.0.3",
+  "description": "Official Discord.JS Bot Named Luna",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": { "node": "8.4.0" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bylaris/Luna.git"
+  },
+  "author": "Amanda M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bylaris/Luna/issues"
+  },
+  "homepage": "https://github.com/Bylaris/Luna#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap-memory": "^0.0.1",
+    "express": "^4.15.5"
+  }
+}
